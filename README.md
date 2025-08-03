@@ -22,4 +22,4 @@
 <b><u><span style="font-size=14px">Health Diagnostic Supplies</span></u></b>
 
 <br><br><br><br>
-<u><span style="font-size:12px"><a href="mailto:Eloheh@gmail.com">Contact us for questions at Elohe@gmail.com</a></span></u>
+<u><span style="font-size:12px"><a href="mailto:Eloheh@gmail.com">Contact us for questions at Eloheh@gmail.com</a></span></u>
