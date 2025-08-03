@@ -6,7 +6,7 @@
 <body>
   
   <img width="90" height="90" alt="ElohehLogo" src="https://github.com/user-attachments/assets/d0090502-7a15-4a55-91d6-1db5928cacf3" />
-  <div style="font-family:Georgia;">
+
   <h1>Shop Eloheh</h1>
   <i><h2>Save Money at Your Local Health Solutions Shop</h2></i>
   <h3>Eloheh Products</h3>
