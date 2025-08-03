@@ -10,7 +10,7 @@
   <h3>Eloheh Products</h3>
 
   
-<b><u><span style="font-size=14px;font-family: Verdana">Prescription Drugs</span></u></b>
+<b><u><span style="font-size=14px;font-family: Georgia">Prescription Drugs</span></u></b>
 <br>
   <span style="color:red; font-size:12px">*Written doctor prescripitions required*</span>
   <br>
@@ -20,7 +20,7 @@
 <b><u><span style="font-size=14px;font-family: Verdana">Over-the-Counter Medicine</span></u></b>
 <br><br>
 
-<b><u><span style="font-size=14px;font-family: Verdana">First Aid</span></u></b>
+<b><u><span style="font-size=14px;font-family: Trebuchet MS">First Aid</span></u></b>
 <br><br>
 
 <b><u><span style="font-size=14px;font-family: Verdana">Health Diagnostic Supplies</span></u></b>
