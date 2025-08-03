@@ -9,22 +9,17 @@
  
 
 <b>
-<heading1> Eloheh Products 
-<br>
-<br>
-<br>
+<heading1> Shop Eloheh Products 
+<br><br><br>
 <u>
 <heading4>Prescription Drugs 
-<br>
-<br>
+<br><br>
   
 <heading4>Over-The-Counter Medicine
-<br>
-<br>
+<br><br>
 
 <heading4>First Aid
-<br>
-<br>
+<br><br>
 
 
 <heading4>Health diagnostic Supplies
