@@ -19,5 +19,7 @@
 <br><br>
 <b><u><span style="font-size=14px">First Aid</span></u></b>
 <br><br>
-<b><u><span style="font-size=14px">ealth Diagnostic Supplies</span></u></b>
+<b><u><span style="font-size=14px">Health Diagnostic Supplies</span></u></b>
 
+<br><br><br><br>
+<u><span style="font-size:12px"><a href="mailto:Eloheh@gmail.com">Contact us for questions at Elohe@gmail.com</a></span></u>
