@@ -5,7 +5,7 @@
 
 <body>
 <b><h1>Shop Eloheh Products</h1></b>
-<i><h2>Save money at your local health solutions shop</h2></i>
+<fontcolor="blue"><i><h2>Save money at your local health solutions shop</h2></i></fontcolor>
 
 <b><u><h4>Prescription Drugs</h4></u></b>
 <p> Doctor prescripitions required</p>
