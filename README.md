@@ -4,6 +4,7 @@
 </head>
 
 <body>
+<image src = "ElohehLogo.png"
 <b><h1>Shop Eloheh Products</h1></b>
 <i><h2>Save money at your local health solutions shop</h2></i>
 
