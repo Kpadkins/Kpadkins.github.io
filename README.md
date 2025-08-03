@@ -1,15 +1,10 @@
 
 <html>
-
-<head>
-  
+<head> 
 </head>
 
 <body>
- 
-
-<b>
-<heading1> Shop Eloheh Products 
+<b><heading1> Shop Eloheh Products 
 <br><br><br>
 <u>
 <heading4>Prescription Drugs 
