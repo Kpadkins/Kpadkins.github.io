@@ -9,25 +9,25 @@
 <i><h3>Save money at your local health solutions shop</h3></i>
 <br>
 
-<b><span style="font-size=32px"> Eloheh Products</span></b>
+<b><span style="font-size=24px"> Eloheh Products</span></b>
 
 <br><br>
 
-<b><u><span style="font-size=24px">Prescription Drugs</span></u></b>
+<b><u><span style="font-size=14px">Prescription Drugs</span></u></b>
 <span style="color:blue; font-size:12px"> Doctor prescripitions required</span>
 
 <br><br>
   
-<b><u><span style="font-size=24px">Over-The-Counter Medicine</span>></u></b>
+<b><u><span style="font-size=14px">Over-The-Counter Medicine</span>></u></b>
 
 
 <br><br>
 
-<b><u><span style="font-size=24px">First Aid</span></u></b>
+<b><u><span style="font-size=14px">First Aid</span></u></b>
 
 
 <br><br>
 
 
-<b><u><span style="font-size=24px">ealth Diagnostic Supplies</span></u></b>
+<b><u><span style="font-size=14px">ealth Diagnostic Supplies</span></u></b>
 
