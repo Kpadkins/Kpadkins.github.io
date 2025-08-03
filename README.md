@@ -1,4 +1,3 @@
-# Kpadkins.github.io
 <html>
 
 <head>
