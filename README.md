@@ -4,7 +4,7 @@
 </head>
 
 <body>
-<img width="70" height="87" alt="ElohehLogo" src="https://github.com/user-attachments/assets/648d4b0d-bb5b-4ff1-a4c2-185ce9060be9" />
+<img width="90" height="107" alt="ElohehLogo" src="https://github.com/user-attachments/assets/648d4b0d-bb5b-4ff1-a4c2-185ce9060be9" />
 <b><h1>Shop Eloheh Products</h1></b>
 <i><h2>Save money at your local health solutions shop</h2></i>
 
