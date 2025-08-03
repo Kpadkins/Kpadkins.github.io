@@ -6,9 +6,9 @@
 <body>
   <img width="90" height="90" alt="ElohehLogo" src="https://github.com/user-attachments/assets/d0090502-7a15-4a55-91d6-1db5928cacf3" />
   <b><h1>Shop Eloheh</h1></b>
-<i><h3>Save money at your local health solutions shop</h3></i>
+<i><h2>Save money at your local health solutions shop</h2></i>
 <br>
-<b><h4>Eloheh Products</h4></b>
+<h3><b><u>Eloheh Products</u></b></h3>
 
 <br><br>
 
