@@ -9,7 +9,7 @@
 
 <b><u><h4>Prescription Drugs</h4></u></b>
 <br>
-<font color = “red”> Doctor prescripitions required</font>
+<font color = “red”>Doctor prescripitions required</font>
 
 <br><br>
   
