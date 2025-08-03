@@ -8,8 +8,8 @@
 <b><h1>Shop Eloheh Products</h1></b>
 <i><h2>Save money at your local health solutions shop</h2></i>
 
-<b><u><h4>Prescription Drugs</h4></u></b>
-<span style="color:blue">Doctor prescripitions required</span>
+<b><u><h3>Prescription Drugs</h3></u></b>
+<span style="color:blue""font-size=12">Doctor prescripitions required</span>
 
 <br><br>
   
