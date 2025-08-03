@@ -12,7 +12,7 @@
 <b><u><span style="font-size=14px">Prescription Drugs</span></u></b>
 <br>
 <span style="color:red; font-size:12px">*Written doctor prescripitions required*</span>
-<ahref="mailto:ElohehPharmacy@gmail.com">Mail paperwork to our email</a>
+<span style="font-size:12px"><ahref="mailto:ElohehPharmacy@gmail.com">Mail paperwork to our email</a></span>
 <br><br>
 <b><u><span style="font-size=14px">Over-the-Counter Medicine</span></u></b>
 <br><br>
