@@ -9,7 +9,7 @@
 <i><h3>Save money at your local health solutions shop</h3></i>
 <br>
 
-<span style="font-size=32px"> Eloheh Products</span>
+<b><span style="font-size=32px"> Eloheh Products</span></b>
 <br>
 <b><u><span style="font-size=24px">Prescription Drugs</span></u></b>
 <span style="color:blue; font-size:12px"> Doctor prescripitions required</span>
