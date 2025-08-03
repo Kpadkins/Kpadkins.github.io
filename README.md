@@ -8,7 +8,7 @@
   <b><h1>Shop Eloheh</h1></b>
 <i><h3>Save money at your local health solutions shop</h3></i>
 <br>
-<b><h4>Eloheh Products</h></b>
+<b><h4>Eloheh Products</h4></b>
 
 <br><br>
 
