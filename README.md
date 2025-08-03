@@ -8,7 +8,6 @@
 <i><h2>Save money at your local health solutions shop</h2></i>
 
 <b><u><h4>Prescription Drugs</h4></u></b>
-<br>
 <span style="color:blue">Doctor prescripitions required</span>
 
 <br><br>
