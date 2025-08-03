@@ -5,7 +5,7 @@
 
 <body>
 <img width="90" height="90" alt="ElohehLogo" src="https://github.com/user-attachments/assets/648d4b0d-bb5b-4ff1-a4c2-185ce9060be9" />
-<b><h1>Shop Eloheh Products</h1></b>
+<center></center><b><h1>Shop Eloheh Products</h1></b></center>
 <i><h2>Save money at your local health solutions shop</h2></i>
 
 <b><u><h3>Prescription Drugs</h3></u></b>
