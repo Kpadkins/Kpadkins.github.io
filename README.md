@@ -9,7 +9,7 @@
 <i><h3>Save money at your local health solutions shop</h3></i>
 <br>
 
-<b><span style="font-size=24px"> Eloheh Products</span></b>
+<b><h4>Eloheh Products</h></b>
 
 <br><br>
 
