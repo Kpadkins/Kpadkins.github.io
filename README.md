@@ -17,13 +17,13 @@
   <u><span style="font-size:12px"><a href="mailto:ElohehPharmacy@gmail.com">Email paperwork to ElohehPharmacy@gmail.com</a></span></u>
   <br><br>
   
-<b><u><span style="font-size=14px;font-family: Verdana">Over-the-Counter Medicine</span></u></b>
+<b><u><span style="font-size=14px;font-family: Georgia">Over-the-Counter Medicine</span></u></b>
 <br><br>
 
-<b><u><span style="font-size=14px;font-family: Trebuchet MS">First Aid</span></u></b>
+<b><u><span style="font-size=14px;font-family: Georgia">First Aid</span></u></b>
 <br><br>
 
-<b><u><span style="font-size=14px;font-family: Verdana">Health Diagnostic Supplies</span></u></b>
+<b><u><span style="font-size=14px;font-family: Georgia">Health Diagnostic Supplies</span></u></b>
 
 <br><br><br><br>
 <u><span style="font-size:12px"><a href="mailto:Eloheh@gmail.com">Contact us for questions at Eloheh@gmail.com</a></span></u>
