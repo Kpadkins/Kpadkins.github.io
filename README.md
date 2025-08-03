@@ -4,18 +4,18 @@
 </head>
 
 <body>
-<b><heading1> Shop Eloheh Products 
+<b><h1> Shop Eloheh Products</h1></b>
 <br><br><br>
-<u>
-<heading4>Prescription Drugs 
+
+<b><u><h4>Prescription Drugs</h4></u></b>
 <br><br>
   
-<heading4>Over-The-Counter Medicine
+<b><u><h4>Over-The-Counter Medicine</h4></u></b>
 <br><br>
 
-<heading4>First Aid
+<b><u><h4>First Aid</h4></u></b>
 <br><br>
 
 
-<heading4>Health diagnostic Supplies
+<b><u><h4>Health Diagnostic Supplies</h4></u></b>
 
