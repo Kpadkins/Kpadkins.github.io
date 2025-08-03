@@ -19,7 +19,7 @@
 
 <br><br>
   
-<b><u><span style="font-size=14px">Over-the-Counter Medicine</span>></u></b>
+<b><u><span style="font-size=14px">Over-the-Counter Medicine</span></u></b>
 
 
 <br><br>
