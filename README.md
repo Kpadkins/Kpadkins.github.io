@@ -25,7 +25,7 @@
           <li>Hydrogen Peroxide
           <li>Gauze
           <li>Slings
-</font></ul><br/><br/>
+<br/><br/>
   
 
 <b><u><font size="4" face="Georgia">Health Diagnostic Supplies</font></u></b>
@@ -36,7 +36,7 @@
           <li>Heart Rate Monitor
           <li>Blood Glucose Monitor
           <li>Pregnancy Tests
-</font></ul><br/><br/>
+<br/><br/>
 
 <h4 align="center">Goals</h4>
 <ol>
