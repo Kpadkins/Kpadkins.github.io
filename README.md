@@ -24,19 +24,20 @@
           <li>Antifungal Creams
           <li>Hydrogen Peroxide
           <li>Gauze
-          <li>Slings
-</ul><br/><br/>
+          <li>Slings  
+</ul>
+<br/><br/>
   
-
 <b><u><font size="4" face="Georgia">Health Diagnostic Supplies</font></u></b>
 <ul align="left" type="disc">
-          <li>Thermometer
+        <li>Thermometer
           <li>Blood Pressure Monitior
           <li>Stethoscope
           <li>Heart Rate Monitor
           <li>Blood Glucose Monitor
           <li>Pregnancy Tests
-</ul><br/><br/>
+</ul>
+<br/><br/>
 
 <h4 align="left">Goals</h4>
 <ol>
