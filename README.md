@@ -1,5 +1,6 @@
 <html>
 <head> 
+  <h2 title="Hello There!">Titled Heading Tag</h2>
 </head>
 
 <body>
@@ -16,8 +17,7 @@
   
 <b><u><span style="font-size=14px;font-family: Georgia">Over-the-Counter Medicine</span></u></b><br/><br/>
 
-<b><u><span style="font-size=14px;font-family: Georgia">First Aid</span></u></b>
-<br/><br/>
+<b><u><span style="font-size=14px;font-family: Georgia">First Aid</span></u></b><br/><br/>
 
 <b><u><span style="font-size=14px;font-family: Georgia">Health Diagnostic Supplies</span></u></b>
 
