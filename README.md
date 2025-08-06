@@ -55,7 +55,7 @@
   <br/>
 
  <!-- Numbered List Section -->
-<font face="Georgia" size="3">Something</font>
+<font size="4">Something</font>
 <ol font size="3" align="left">
   <li>Blah</li>
   <li>Blah</li>
