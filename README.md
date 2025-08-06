@@ -16,7 +16,7 @@
   <u><font size="3"><a href="mailto:ElohehPharmacy@gmail.com">Email paperwork to ElohehPharmacy@gmail.com</a></font></u><br/><br/>
   
 <b><u><font size="4" face="Georgia">Over-the-Counter Medicine</font></u></b><br/>
-
+<p>
 <b><u><font size="4" face="Georgia">First Aid</font></u></b><br/>
 <ul align="left" type="disc">
           <li>Bandages
@@ -26,6 +26,7 @@
           <li>Gauze
           <li>Slings  
 </ul>
+</p>
 <br/><br/>
   
 <b><u><font size="4" face="Georgia">Health Diagnostic Supplies</font></u></b>
