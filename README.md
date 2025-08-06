@@ -1,8 +1,7 @@
 <html>
 <head> 
   <font size="5" face="Georgia" color="blue">Here is a size 5 font</font></br>
-    <p><font size="7" face="Georgia, Arial" color="maroon">C</font>ustomize
- your font to achieve a desired look.</p>
+    <font size="7" face="Georgia, Arial" color="maroon">Customize your font to achieve a desired look.</font>
   <font color="red">This text is red</font>
   <font face="Georgia, Arial, Garamond">This paragraph has had its font...</font>
 </head>
