@@ -1,6 +1,8 @@
 <html>
 <head> 
   <font size="5"; face="Georgia"; color="blue">Here is a size 5 font</font>
+  <font color="red">This text is red</font>
+  <font face="Georgia, Arial, Garamond">This paragraph has had its font...</font>
 </head>
 
 <body>
