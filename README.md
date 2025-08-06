@@ -17,8 +17,8 @@
   
   <b><u><font size="4" face="Georgia">Over-the-Counter Medicine</font></u></b><br/>
   
-  <h4 style="font-family: Georgia; font-size: 1.2em;"><b><u>First Aid</u></b></h4>
-<ul style="font-size: 1em; text-align: left;">
+  <font face="Georgia" size="3"><b><u>First Aid</u></b></font>
+<ul font size="3" align="left">
   <li>Bandages</li>
   <li>Gloves</li>
   <li>Antifungal Creams</li>
@@ -39,8 +39,8 @@
 </ul>
 
 <!-- Goals Section -->
-<h4 style="text-align: left;">Goals</h4>
-<ol style="text-align: left;">
+<font face="Georgia" size="3">Goals</font>
+<ol font size="3" align="left">
   <li>Find a Job</li>
   <li>Get Money</li>
   <li>Move Out</li>
