@@ -1,5 +1,6 @@
 <html>
 <head> 
+<meta charset="UTF-8" />
 <title>Eloheh Health Solutions — Products</title>
 </head>
 
