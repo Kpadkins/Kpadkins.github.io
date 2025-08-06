@@ -1,14 +1,11 @@
 <html>
 <head> 
   <font size="5" face="Georgia" color="blue">Here is a size 5 font</font></br>
-    <font size="7" face="Georgia, Arial" color="maroon">Customize your font to achieve a desired look.</font>
-  <font color="red">This text is red</font>
-  <font face="Georgia, Arial, Garamond">This paragraph has had its font...</font>
 </head>
 
 <body>
   <img width="90" height="90" alt="ElohehLogo" src="https://github.com/user-attachments/assets/d0090502-7a15-4a55-91d6-1db5928cacf3" />
-<span style="font-family: Georgia"><h1 align="center">Shop Eloheh Health</h1></span>
+<h1 align="center"><face="Georgia">Shop Eloheh Health</h1></font>
 <i><h2 align="center">Save Money at Your Local Health Solutions Store</h2></i>
 <h3 title="The products listed may not cover every option available.">Eloheh Products</h3><br/>
   
