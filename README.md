@@ -13,38 +13,38 @@
 
   <font color="red" size="3">*Written doctor prescripitions required*</font><br/>
   
-  <u><font size="3"><a href="mailto:ElohehPharmacy@gmail.com">Email paperwork to ElohehPharmacy@gmail.com</a></font></u><br/><br/>
+  <u><font size="3"><a href="mailto:ElohehPharmacy@gmail.com">Email paperwork to ElohehPharmacy@gmail.com</a></font></u>  <br/><br/>
   
-<b><u><font size="4" face="Georgia">Over-the-Counter Medicine</font></u></b><br/>
-<p>
-<b><u><font size="4" face="Georgia">First Aid</font></u></b><br/>
-<ul align="left" type="disc">
+  <b><u><font size="4" face="Georgia">Over-the-Counter Medicine</font></u></b><br/>
+  <p>
+  <b><u><font size="4" face="Georgia">First Aid</font></u></b><br/>
+  <ul align="left" type="disc">
           <li>Bandages
           <li>Gloves
           <li>Antifungal Creams
           <li>Hydrogen Peroxide
           <li>Gauze
           <li>Slings  
-<br/><br/>
+  <br/><br/>
 
-<p>
-<b><u><font size="4" face="Georgia">Health Diagnostic Supplies</font></u></b>
-<ul align="left" type="disc">
+  <p>
+  <b><u><font size="4" face="Georgia">Health Diagnostic Supplies</font></u></b>
+  <ul align="left" type="disc">
         <li>Thermometer
           <li>Blood Pressure Monitior
           <li>Stethoscope
           <li>Heart Rate Monitor
           <li>Blood Glucose Monitor
           <li>Pregnancy Tests
-<br/><br/>
+  <br/><br/>
 
-<p>
-<h4 align="left">Goals</h4>
-<ol>
+  <p>
+  <h4 align="left">Goals</h4>
+  <ol>
   <li>Find a Job</li>
   <li>Get Money</li>
   <li>Move Out</li>
-</ol>
+  </ol>
 
 
 <br/><br/><br/>
