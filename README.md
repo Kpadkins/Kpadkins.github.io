@@ -1,6 +1,6 @@
 <html>
 <head> 
-  <title>Eloheh Shop</title>
+<title>Eloheh Health Solutions — Products</title>
 </head>
 
 <body>
