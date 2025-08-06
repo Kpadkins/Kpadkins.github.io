@@ -14,12 +14,15 @@
 </body>
 
 <!-- Prescription Drug Section -->
+
 <b><u><font size="4" face="Georgia">Prescription Drugs</font></u></b><br/>
   <font color="red" size="3">*Written doctor prescripitions required*</font><br/>
   <u><font size="3"><a href="mailto:ElohehPharmacy@gmail.com">Email paperwork to ElohehPharmacy@gmail.com</a></font></u> 
   <br/> <br/>
 
 <!-- Over-The-Counter Medicine Section -->
+<img src="https://github.com/user-attachments/assets/b1c00c3d-d6a7-45c1-a4e1-b617b13b859c)"/>
+
   <b><u><font size="4" face="Georgia">Over-the-Counter Medicine</font></u></b><br/>
 <ul font size="3" align="left">
   <li>Ibuprofen</li>
@@ -32,6 +35,7 @@
   <br/>
 
 <!-- First Aid Section -->
+<img src="https://github.com/user-attachments/assets/e3ac7ef6-58fd-429f-84bb-3a02bf0dae79)"/>>
   <font face="Georgia" size="4"><b><u>First Aid</u></b></font>
 <ul font size="3" align="left">
   <li>Bandages</li>
@@ -44,6 +48,7 @@
   <br/>
 
 <!-- Health Diagnostic Supplies Section -->
+<img src="https://github.com/user-attachments/assets/07c2e5ad-4898-4ca8-a4cf-71dd45e2d1a2)"/>
 <font face="Georgia" size="4"><b><u>Health Diagnostic Supplies</u></b></font>
 <ul font size="3" align="left">
   <li>Thermometer</li>
