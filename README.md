@@ -1,6 +1,6 @@
 <html>
 <head> 
-  
+  <title>Eloheh Shop</title>
 </head>
 
 <body>
