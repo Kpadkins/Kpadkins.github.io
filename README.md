@@ -15,10 +15,10 @@
   
   <u><font size="3"><a href="mailto:ElohehPharmacy@gmail.com">Email paperwork to ElohehPharmacy@gmail.com</a></font></u><br/><br/>
   
-<b><u><font size="4" face="Georgia">Over-the-Counter Medicine</font></u></b>
+<b><u><font size="4" face="Georgia">Over-the-Counter Medicine</font></u></b><br/>
 
 <b><u><font size="4" face="Georgia">First Aid</font></u></b><br/>
-<ul align="right" type="disc"><font size="3">
+<ul align="left" type="disc"><font size="3">
           <li>Bandages
           <li>Gloves
           <li>Antifungal Creams
@@ -29,7 +29,7 @@
   
 
 <b><u><font size="4" face="Georgia">Health Diagnostic Supplies</font></u></b>
-<ul align="right" type="disc"><font size="3">
+<ul align="left" type="disc"><font size="3">
           <li>Thermometer
           <li>Blood Pressure Monitior
           <li>Stethoscope
@@ -38,7 +38,7 @@
           <li>Pregnancy Tests
 <br/><br/>
 
-<h4 align="center">Goals</h4>
+<h4 align="left">Goals</h4>
 <ol>
   <li>Find a Job</li>
   <li>Get Money</li>
