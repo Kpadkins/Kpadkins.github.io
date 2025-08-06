@@ -36,7 +36,14 @@
           <li>Heart Rate Monitor
           <li>Blood Glucose Monitor
           <li>Pregnancy Tests
-<ul/><br/>
+</ul><br/><br/>
+
+h4 align="center">Goals</h4>
+<ol>
+  <li>Find a Job</li>
+  <li>Get Money</li>
+  <li>Move Out</li>
+</ol>
 
 
 <br/><br/><br/>
