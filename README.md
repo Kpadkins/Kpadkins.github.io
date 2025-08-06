@@ -49,8 +49,8 @@
 <!-- Health Diagnostic Supplies Section -->
 <font face="Georgia" size="4"><b><u>Health Diagnostic Supplies</u></b></font>
 <ul font size="3" align="left">
-  <li>Thermometer</li>
   <img src="https://github.com/user-attachments/assets/1389b252-9fca-413c-a3b6-e59596a6a677" align="right">
+  <li>Thermometer</li>
   <li>Blood Pressure Monitor</li>
   <li>Stethoscope</li>
   <li>Heart Rate Monitor</li>
