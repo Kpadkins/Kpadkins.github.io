@@ -21,7 +21,8 @@
   <br/> <br/>
 
 <!-- Over-The-Counter Medicine Section -->
-<img src="https://github.com/user-attachments/assets/b1c00c3d-d6a7-45c1-a4e1-b617b13b859c)"/>
+![Over the counter drugs](https://github.com/user-attachments/assets/2e600777-8dc4-4437-bd6b-ef6631b4d342)
+
 
   <b><u><font size="4" face="Georgia">Over-the-Counter Medicine</font></u></b><br/>
 <ul font size="3" align="left">
@@ -35,7 +36,8 @@
   <br/>
 
 <!-- First Aid Section -->
-<img src="https://github.com/user-attachments/assets/e3ac7ef6-58fd-429f-84bb-3a02bf0dae79)"/>>
+![first aid](https://github.com/user-attachments/assets/d400efa2-39f4-422f-9617-a5e63f75cf3f)
+
   <font face="Georgia" size="4"><b><u>First Aid</u></b></font>
 <ul font size="3" align="left">
   <li>Bandages</li>
@@ -48,7 +50,8 @@
   <br/>
 
 <!-- Health Diagnostic Supplies Section -->
-<img src="https://github.com/user-attachments/assets/07c2e5ad-4898-4ca8-a4cf-71dd45e2d1a2)"/>
+![Medical Diagnostic Tools](https://github.com/user-attachments/assets/1389b252-9fca-413c-a3b6-e59596a6a677)
+
 <font face="Georgia" size="4"><b><u>Health Diagnostic Supplies</u></b></font>
 <ul font size="3" align="left">
   <li>Thermometer</li>
