@@ -20,6 +20,15 @@
 <b><u><span style="font-size=14px;font-family: Georgia">First Aid</span></u></b><br/><br/>
 
 <b><u><span style="font-size=14px;font-family: Georgia">Health Diagnostic Supplies</span></u></b>
+<ul type="square">
+          <li>Thermometer>
+          <li>Blood Pressure Monitior>
+          <li>Stethoscope>
+          <li>Heart Rate Monitor>
+          <li>Blood Glucose Monitor>
+          <li>Pregnancy Tests>
+ </ul>
+
 
 <br/><br/><br/><br/>
 <u><span style="font-size:12px"><a href="mailto:Eloheh@gmail.com">Contact us for questions</a></span></u>
