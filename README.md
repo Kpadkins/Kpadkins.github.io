@@ -10,14 +10,24 @@
 <h2 title="The products listed may not cover every option available.">Eloheh Products</h2><br/>
   
 <b><u><font size="4" face="Georgia">Prescription Drugs</font></u></b><br/>
-
   <font color="red" size="3">*Written doctor prescripitions required*</font><br/>
-  
-  <u><font size="3"><a href="mailto:ElohehPharmacy@gmail.com">Email paperwork to ElohehPharmacy@gmail.com</a></font></u>  <br/><br/>
+  <u><font size="3"><a href="mailto:ElohehPharmacy@gmail.com">Email paperwork to ElohehPharmacy@gmail.com</a></font></u>  <ul font size="3" align="left">
+  <li>Inhaler</li>
+  <li>Insulin</li>
+</ul>
+  <br/><br/>
   
   <b><u><font size="4" face="Georgia">Over-the-Counter Medicine</font></u></b><br/>
+<ul font size="3" align="left">
+  <li>Ibuprofen</li>
+  <li>Asprin</li>
+  <li>Decongestants</li>
+  <li>Antacids</li>
+  <li>Laxitives</li>
+  <li>Melatonin</li>
+</ul>
   
-  <font face="Georgia" size="3"><b><u>First Aid</u></b></font>
+  <font face="Georgia" size="4"><b><u>First Aid</u></b></font>
 <ul font size="3" align="left">
   <li>Bandages</li>
   <li>Gloves</li>
@@ -28,7 +38,7 @@
 </ul>
 
 <!-- Health Diagnostic Supplies Section -->
-<font face="Georgia" size="3"><b><u>Health Diagnostic Supplies</u></b></font>
+<font face="Georgia" size="4"><b><u>Health Diagnostic Supplies</u></b></font>
 <ul font size="3" align="left">
   <li>Thermometer</li>
   <li>Blood Pressure Monitor</li>
