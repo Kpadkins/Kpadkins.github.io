@@ -18,15 +18,22 @@
 <b><u><font size="4" face="Georgia">Over-the-Counter Medicine</font></u></b><br/><br/>
 
 <b><u><font size="4" face="Georgia">First Aid</font></u></b><br/><br/>
+<ul type="circle"> <font size="3">
+          <li>Bandages
+          <li>Gloves
+          <li>Antifungal Creams
+          <li>Hydrogen Peroxide
+          <li>Gauze
+          <li>Slings
 
 <b><u><font size="4" face="Georgia">Health Diagnostic Supplies</font></u></b>
-<ul type="square"> <font size="3">
-          <li>Thermometer>
-          <li>Blood Pressure Monitior>
-          <li>Stethoscope>
-          <li>Heart Rate Monitor>
-          <li>Blood Glucose Monitor>
-          <li>Pregnancy Tests>
+<ul type="circle"> <font size="3">
+          <li>Thermometer
+          <li>Blood Pressure Monitior
+          <li>Stethoscope
+          <li>Heart Rate Monitor
+          <li>Blood Glucose Monitor
+          <li>Pregnancy Tests
 
 
 <br/><br/><br/><br/>
