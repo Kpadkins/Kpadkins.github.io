@@ -25,10 +25,9 @@
           <li>Hydrogen Peroxide
           <li>Gauze
           <li>Slings  
-</ul>
-</p>
 <br/><br/>
-  
+
+<p>
 <b><u><font size="4" face="Georgia">Health Diagnostic Supplies</font></u></b>
 <ul align="left" type="disc">
         <li>Thermometer
@@ -40,6 +39,7 @@
 </ul>
 <br/><br/>
 
+<p>
 <h4 align="left">Goals</h4>
 <ol>
   <li>Find a Job</li>
