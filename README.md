@@ -22,10 +22,10 @@
 
 <!-- Over-The-Counter Medicine Section -->
   <b><u><font size="4" face="Georgia">Over-the-Counter Medicine</font></u></b><br/>
-  <img src="https://github.com/user-attachments/assets/2e600777-8dc4-4437-bd6b-ef6631b4d342" align="right">
 <ul font size="3" align="left">
   <li>Ibuprofen</li>
   <li>Asprin</li>
+   <img src="https://github.com/user-attachments/assets/2e600777-8dc4-4437-bd6b-ef6631b4d342" align="right">
   <li>Decongestants</li>
   <li>Antacids</li>
   <li>Laxitives</li>
