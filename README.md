@@ -5,7 +5,7 @@
 
 <body>
   <img width="90" height="90" alt="ElohehLogo" src="https://github.com/user-attachments/assets/d0090502-7a15-4a55-91d6-1db5928cacf3" />
-<h1 align="center"><font face="Georgia">Shop Eloheh Health</h1></font>
+<h1 align="center"><font face="Georgia">Shop Eloheh Health</font></h1>
 <i><h2 align="center">Save Money at Your Local Health Solutions Store</h2></i>
 <h3 title="The products listed may not cover every option available.">Eloheh Products</h3><br/>
   
