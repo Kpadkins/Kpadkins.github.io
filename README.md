@@ -1,6 +1,6 @@
 <html>
 <head> 
-  <font size="5"; family="Georgia">Here is a size 5 font</font>
+  <font size="5"; family="Georgia"; color="blue">Here is a size 5 font</font>
 </head>
 
 <body>
