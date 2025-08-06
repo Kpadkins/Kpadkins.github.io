@@ -70,5 +70,5 @@
 <br/>
 <u><font face="3"><a href="mailto:Eloheh@gmail.com">Contact us for questions</a></font></u>
 <br/><br/>
-<P>Page Last Modified:</P>
+<Page Last Modified:>
 <script>document.write(document.lastModified)</script>
