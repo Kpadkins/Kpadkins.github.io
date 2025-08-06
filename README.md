@@ -21,8 +21,7 @@
   <br/> <br/>
 
 <!-- Over-The-Counter Medicine Section -->
-<img align="left" src="https://github.com/user-attachments/assets/2e600777-8dc4-4437-bd6b-ef6631b4d342)">
-
+<img src="(https://github.com/user-attachments/assets/2e600777-8dc4-4437-bd6b-ef6631b4d342)" align="right">
 
   <b><u><font size="4" face="Georgia">Over-the-Counter Medicine</font></u></b><br/>
 <ul font size="3" align="left">
