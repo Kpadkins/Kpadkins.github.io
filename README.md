@@ -70,5 +70,4 @@
 <br/>
 <u><font face="3"><a href="mailto:Eloheh@gmail.com">Contact us for questions</a></font></u>
 <br/><br/>
-<Page Last Modified:>
-<script>document.write(document.lastModified)</script>
+<b>Page Last Modified:<b><script>document.write(document.lastModified)</script>
