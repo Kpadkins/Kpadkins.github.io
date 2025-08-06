@@ -37,6 +37,7 @@
 ![first aid](https://github.com/user-attachments/assets/d400efa2-39f4-422f-9617-a5e63f75cf3f)
 
   <font face="Georgia" size="4"><b><u>First Aid</u></b></font>
+  <img src="https://github.com/user-attachments/assets/d400efa2-39f4-422f-9617-a5e63f75cf3f" align="right">
 <ul font size="3" align="left">
   <li>Bandages</li>
   <li>Gloves</li>
