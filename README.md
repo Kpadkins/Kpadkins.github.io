@@ -18,7 +18,7 @@
 <b><u><font size="4" face="Georgia">Over-the-Counter Medicine</font></u></b><br/>
 
 <b><u><font size="4" face="Georgia">First Aid</font></u></b><br/>
-<ul align="left" type="disc"><font size="3">
+<ul align="left" type="disc">
           <li>Bandages
           <li>Gloves
           <li>Antifungal Creams
@@ -29,7 +29,7 @@
   
 
 <b><u><font size="4" face="Georgia">Health Diagnostic Supplies</font></u></b>
-<ul align="left" type="disc"><font size="3">
+<ul align="left" type="disc">
           <li>Thermometer
           <li>Blood Pressure Monitior
           <li>Stethoscope
