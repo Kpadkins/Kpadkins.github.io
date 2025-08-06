@@ -16,7 +16,7 @@
   <li>Inhaler</li>
   <li>Insulin</li>
 </ul>
-  <br/><br/>
+  <br/>
 
 <!-- Over-The-Counter Medicine Section -->
   <b><u><font size="4" face="Georgia">Over-the-Counter Medicine</font></u></b><br/>
@@ -28,6 +28,7 @@
   <li>Laxitives</li>
   <li>Melatonin</li>
 </ul>
+  <br/>
 
 <!-- First Aid Section -->
   <font face="Georgia" size="4"><b><u>First Aid</u></b></font>
@@ -39,6 +40,7 @@
   <li>Gauze</li>
   <li>Slings</li>
 </ul>
+  <br/>
 
 <!-- Health Diagnostic Supplies Section -->
 <font face="Georgia" size="4"><b><u>Health Diagnostic Supplies</u></b></font>
@@ -50,14 +52,15 @@
   <li>Blood Glucose Monitor</li>
   <li>Pregnancy Tests</li>
 </ul>
+  <br/>
 
  <!-- Numbered List Section -->
-<font face="Georgia" size="3">Goals</font>
+<font face="Georgia" size="3">Something</font>
 <ol font size="3" align="left">
-  <li>Find a Job</li>
-  <li>Get Money</li>
-  <li>Move Out</li>
+  <li>Blah</li>
+  <li>Blah</li>
+  <li>Blah</li>
 </ol>
   
-<br/><br/><br/>
+<br/><br/>
 <u><font face="3"><a href="mailto:Eloheh@gmail.com">Contact us for questions</a></font></u>
