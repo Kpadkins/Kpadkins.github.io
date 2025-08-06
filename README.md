@@ -1,6 +1,6 @@
 <html>
 <head> 
-  <font size="5" face="Georgia" color="blue">Here is a size 5 font</font></br>
+
 </head>
 
 <body>
@@ -11,15 +11,15 @@
   
 <b><u><font size="4" face="Georgia">Prescription Drugs</font></u></b><br/>
 
-  <span style="color:red; font-size:12px">*Written doctor prescripitions required*</span><br/>
+  <font color="red" size="3">*Written doctor prescripitions required*</font><br/>
   
-  <u><span style="font-size:12px"><a href="mailto:ElohehPharmacy@gmail.com">Email paperwork to ElohehPharmacy@gmail.com</a></span></u><br/><br/>
+  <u><font size="3"><a href="mailto:ElohehPharmacy@gmail.com">Email paperwork to ElohehPharmacy@gmail.com</a></font></u><br/><br/>
   
-<b><u><span style="font-size=14px;font-family: Georgia">Over-the-Counter Medicine</span></u></b><br/><br/>
+<b><u><font size="4" face="Georgia">Over-the-Counter Medicine</font></u></b><br/><br/>
 
-<b><u><span style="font-size=14px;font-family: Georgia">First Aid</span></u></b><br/><br/>
+<b><u><font size="4" face="Georgia">First Aid</font></u></b><br/><br/>
 
-<b><u><span style="font-size=14px;font-family: Georgia">Health Diagnostic Supplies</span></u></b>
+<b><u><font size="4" face="Georgia">Health Diagnostic Supplies</font></u></b>
 <ul type="square">
           <li>Thermometer>
           <li>Blood Pressure Monitior>
