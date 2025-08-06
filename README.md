@@ -36,7 +36,6 @@
           <li>Heart Rate Monitor
           <li>Blood Glucose Monitor
           <li>Pregnancy Tests
-</ul>
 <br/><br/>
 
 <p>
