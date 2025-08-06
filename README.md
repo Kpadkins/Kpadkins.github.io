@@ -9,7 +9,7 @@
 <i><h2 align="center">Save Money at Your Local Health Solutions Store</h2></i>
 <h3 title="The products listed may not cover every option available.">Eloheh Products</h3><br/>
   
-<b><u><font size="10" face="Georgia">Prescription Drugs</font></u></b><br/>
+<b><u><font size="4" face="Georgia">Prescription Drugs</font></u></b><br/>
 
   <span style="color:red; font-size:12px">*Written doctor prescripitions required*</span><br/>
   
