@@ -24,8 +24,8 @@
   <b><u><font size="4" face="Georgia">Over-the-Counter Medicine</font></u></b><br/>
 <ul font size="3" align="left">
   <li>Ibuprofen</li>
+  <img src="https://github.com/user-attachments/assets/2e600777-8dc4-4437-bd6b-ef6631b4d342" align="right">
   <li>Asprin</li>
-   <img src="https://github.com/user-attachments/assets/2e600777-8dc4-4437-bd6b-ef6631b4d342" align="right">
   <li>Decongestants</li>
   <li>Antacids</li>
   <li>Laxitives</li>
