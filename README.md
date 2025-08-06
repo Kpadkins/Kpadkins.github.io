@@ -12,7 +12,10 @@
 <!-- Prescription Drug Section -->
 <b><u><font size="4" face="Georgia">Prescription Drugs</font></u></b><br/>
   <font color="red" size="3">*Written doctor prescripitions required*</font><br/>
-  <u><font size="3"><a href="mailto:ElohehPharmacy@gmail.com">Email paperwork to ElohehPharmacy@gmail.com</a></font></u> 
+  <u><font size="3"><a href="mailto:ElohehPharmacy@gmail.com">Email paperwork to ElohehPharmacy@gmail.com or upload below</a></font></u> 
+  <form name="myWebForm" action="ElohehPharmacy@gmail.com" method="post">
+<input type="file" name="uploadField" />
+</form>
   <br/> <br/>
 
 <!-- Over-The-Counter Medicine Section -->
