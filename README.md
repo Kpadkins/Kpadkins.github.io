@@ -20,14 +20,14 @@
 <b><u><font size="4" face="Georgia">First Aid</font></u></b><br/><br/>
 
 <b><u><font size="4" face="Georgia">Health Diagnostic Supplies</font></u></b>
-<ul type="square">
+<ul type="square"> <font size="3">
           <li>Thermometer>
           <li>Blood Pressure Monitior>
           <li>Stethoscope>
           <li>Heart Rate Monitor>
           <li>Blood Glucose Monitor>
           <li>Pregnancy Tests>
- </ul>
+</font> </ul>
 
 
 <br/><br/><br/><br/>
