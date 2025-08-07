@@ -1,6 +1,6 @@
 <head>
 <div style="background-color: #ccf5f0; padding: 20px; margin-top: 20px;"></br>
-<title>Eloheh Health Solutions — Home</title></br>
+<title>Eloheh Health Solutions—Home</title></br>
 <img width="90" height="90" src="https://github.com/user-attachments/assets/d0090502-7a15-4a55-91d6-1db5928cacf3"/>
 <h1 align="center"><font face="Georgia">Shop Eloheh Health</font></h1>
 <i><h2 align="center">Save Money at Your Local Health Solutions Store</h2></i>
