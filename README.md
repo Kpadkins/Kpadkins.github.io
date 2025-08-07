@@ -19,6 +19,7 @@
 
 <!-- Over-The-Counter Medicine Section -->
   <b><u><font size="4" face="Georgia">Over-the-Counter Medicine</font></u></b><br/>
+  <p>
 <ul font size="3" align="left">
   <li>Ibuprofen</li>
   <img src="https://github.com/user-attachments/assets/2e600777-8dc4-4437-bd6b-ef6631b4d342" align="right">
@@ -28,10 +29,12 @@
   <li>Laxitives</li>
   <li>Melatonin</li>
 </ul>
+</p>
   <br/>
 
 <!-- First Aid Section -->
   <font face="Georgia" size="4"><b><u>First Aid</u></b></font>
+   <p>
   <img src="https://github.com/user-attachments/assets/d400efa2-39f4-422f-9617-a5e63f75cf3f" align="right">
 <ul font size="3" align="left">
   <li>Bandages</li>
@@ -41,6 +44,7 @@
   <li>Gauze</li>
   <li>Slings</li>
 </ul>
+ </p>
   <br/>
 
 <!-- Health Diagnostic Supplies Section -->
