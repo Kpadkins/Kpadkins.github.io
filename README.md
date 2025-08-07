@@ -62,7 +62,6 @@
  <!-- Numbered List Section -->
 <b><u><font size="4">How to Join our Rewards Program:</font></u></b>
 <ol font size="3" align="left">
-  <li>Visit your nearest Eloheh Health Solutions location.</li>
   <li>Ask the front counter clerk about joining the Rewards Program.</li>
   <li>Provide your name, phone number, and email address.</li>
   <li>Receive your Rewards card and start earning points today!</li>
