@@ -7,10 +7,10 @@
 </head>
 
 <body>
-<h1 title="The products listed may not cover every option available.">Eloheh Products</h2><br/>
+<h1 title="The products listed may not cover every option available.">Eloheh Products</h1><br/>
 
 <!-- Prescription Drug Section -->
-<b><u><font size="5" face="Georgia">Prescription Drugs</font></u></b><br/>
+<b><u><font size="4" face="Georgia">Prescription Drugs</font></u></b><br/>
   <font color="gray" size="3">Medications tailored to your health needs, available with a doctor’s prescription for safe, effective treatment.</font><br/>
   <font color="red" size="3">*Written doctor prescripitions are required*</font><br/><br/>
   <a href="https://github.com/user-attachments/assets/1d9ec1d8-668c-4eb8-b821-b35cbe682b0a" target="_blank">Download presciption form</a><br/>
