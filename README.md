@@ -64,7 +64,7 @@
 <ol font size="3" align="left">
   <li>Ask the front counter clerk about joining the Rewards Program.</li>
   <li>Provide your name, phone number, and email address.</li>
-  <li>Receive your Rewards card and start earning points today!</li>
+  <li>Receive your rewards card and start earning points today!</li>
 </ol>
   
 <br/>
