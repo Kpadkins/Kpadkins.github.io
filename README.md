@@ -10,7 +10,6 @@
 </body>
 
 <!-- Prescription Drug Section -->
-
 <b><u><font size="4" face="Georgia">Prescription Drugs</font></u></b><br/>
   <font color="red" size="3">*Written doctor prescripitions required*</font><br/>
   <a href="https://github.com/user-attachments/assets/1d9ec1d8-668c-4eb8-b821-b35cbe682b0a" target="_blank">Download presciption form</a><br/>
@@ -21,7 +20,7 @@
   <b><u><font size="4" face="Georgia">Over-the-Counter Medicine</font></u></b><br/>
 <ul font size="3" align="left">
   <li>Ibuprofen</li>
-  <img src="https://github.com/user-attachments/assets/2e600777-8dc4-4437-bd6b-ef6631b4d342" align="right">
+  <img width="175" height="150" src="https://github.com/user-attachments/assets/0e6f936e-7bd7-4f91-ab1b-2bce520f628b" align="right">
   <li>Asprin</li>
   <li>Decongestants</li>
   <li>Antacids</li>
