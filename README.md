@@ -12,7 +12,7 @@
 
 <!-- Prescription Drug Section -->
 <b><u><font size="4" face="Georgia">Prescription Drugs</font></u></b><br/>
-  <font color="gray" size="3">Medications tailored to your health needs for safe, effective treatment.</font><br/>
+  <font color="gray" size="3">Medications tailored to your health needs, available with a doctor’s prescription for safe, effective treatment.</font><br/>
   <font color="red" size="3">*Written doctor prescripitions are required*</font><br/>
   <a href="https://github.com/user-attachments/assets/1d9ec1d8-668c-4eb8-b821-b35cbe682b0a" target="_blank">Download presciption form</a><br/>
   <u><font size="3"><a href="mailto:ElohehPharmacy@gmail.com">Email paperwork here</a></font></u> 
@@ -20,7 +20,7 @@
 
 <!-- Over-The-Counter Medicine Section -->
   <b><u><font size="4" face="Georgia">Over-the-Counter Medicine</font></u></b><br/>
-  <font color="gray" size="3">Everyday remedies to relieve common symptoms and support your wellness—no prescription needed.</font><br/>
+  <font color="gray" size="3">Everyday remedies to relieve common symptoms and support your wellness.</font><br/>
   <img width="275" height="183" src="https://github.com/user-attachments/assets/9692ba0d-ee29-42c6-8777-f0c46d47cdd9" align="right">
 <ul font size="3" align="left">
   <li>Ibuprofen</li>
