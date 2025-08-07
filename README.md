@@ -32,7 +32,7 @@
 
 <!-- First Aid Section -->
   <font face="Georgia" size="4"><b><u>First Aid</u></b></font>
-  <img width="175" height="175" src="https://github.com/user-attachments/assets/d400efa2-39f4-422f-9617-a5e63f75cf3f" align="right">
+  <img width="175" height="150" src="https://github.com/user-attachments/assets/12a9509a-1373-48ff-81c0-66063277f50e" align="right">
 <ul font size="3" align="left">
   <li>Bandages</li>
   <li>Gloves</li>
