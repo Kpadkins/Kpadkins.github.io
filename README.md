@@ -17,7 +17,7 @@
   <u><font size="3"><a href="mailto:ElohehPharmacy@gmail.com">Email paperwork here</a></font></u> 
   <br/> <br/>
   <font color="gray" size="3">See helpful tips for medication management <a href="https://www.hopkinsmedicine.org/health/wellness-and-prevention/help-for-managing-multiple-medications" target="_blank">here</a>.</font>
-   <br/>
+   <br/><br/>
 
 <!-- Over-The-Counter Medicine Section -->
   <b><u><font size="4" face="Georgia">Over-the-Counter Medicine</font></u></b><br/>
