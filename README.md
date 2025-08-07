@@ -32,7 +32,7 @@
 
 <!-- First Aid Section -->
   <font face="Georgia" size="4"><b><u>First Aid</u></b></font>
-  <img src="https://github.com/user-attachments/assets/d400efa2-39f4-422f-9617-a5e63f75cf3f" align="right">
+  <img width="90" height="90" src="https://github.com/user-attachments/assets/d400efa2-39f4-422f-9617-a5e63f75cf3f" align="right">
 <ul font size="3" align="left">
   <li>Bandages</li>
   <li>Gloves</li>
@@ -46,7 +46,7 @@
 <!-- Health Diagnostic Supplies Section -->
 <font face="Georgia" size="4"><b><u>Health Diagnostic Supplies</u></b></font>
 <ul font size="3" align="left">
- <img width="120" height="120 src="https://github.com/user-attachments/assets/7266ba81-3095-43cd-9b1f-b153af2da1bc" align="right">
+ <img src="https://github.com/user-attachments/assets/7266ba81-3095-43cd-9b1f-b153af2da1bc" align="right">
   <li>Thermometer</li>
   <li>Blood Pressure Monitor</li>
   <li>Stethoscope</li>
