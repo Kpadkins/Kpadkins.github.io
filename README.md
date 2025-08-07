@@ -30,7 +30,7 @@
   <br/>
 
 <!-- First Aid Section -->
-  <font face="Georgia" size="4"><b><u>First Aid</u></b></font>
+  <font face="Georgia" size="4"><b><u>First Aid</u></b></font><br/>
    <font color="gray" size="3">Essential items to treat minor injuries and emergencies quickly, at home or on the go.</font><br/>
   <img width="225" height="150" src="https://github.com/user-attachments/assets/12a9509a-1373-48ff-81c0-66063277f50e" align="right">
 <ul font size="3" align="left">
@@ -44,7 +44,7 @@
   <br/>
 
 <!-- Health Diagnostic Supplies Section -->
-<font face="Georgia" size="4"><b><u>Health Diagnostic Supplies</u></b></font>
+<font face="Georgia" size="4"><b><u>Health Diagnostic Supplies</u></b></font><br/>
   <font color="gray" size="3">Reliable equipment to help you monitor your health and catch potential issues early.</font><br/>
 <img width="225" height="150" src="https://github.com/user-attachments/assets/e9e73172-cc84-4f66-b3f2-a53188b43d8a" align="right">
 <ul font size="3" align="left">
