@@ -1,4 +1,5 @@
 <head> 
+<title>Eloheh Health Solutions — Services</title>
 <div style="background-color: #ecfffb;">
 <img width="90" height="90" src="https://github.com/user-attachments/assets/d0090502-7a15-4a55-91d6-1db5928cacf3"/>
 <h1 align="center"><font face="Georgia">Shop Eloheh Health</font></h1>
