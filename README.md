@@ -54,7 +54,7 @@
   <br/>
 
  <!-- Numbered List Section -->
-<b><font size="4">How to Join our Rewards Program</font></b>
+<b><font size="4">How to Join our Rewards Program:</font></b>
 <ol font size="3" align="left">
   <li>Visit your nearest Eloheh Health Solutions location.</li>
   <li>Ask the front counter clerk about joining the Rewards Program.</li>
