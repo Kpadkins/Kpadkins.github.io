@@ -18,8 +18,8 @@
 
 <!-- Over-The-Counter Medicine Section -->
   <b><u><font size="4" face="Georgia">Over-the-Counter Medicine</font></u></b><br/>
-<ul font size="3" align="left">
   <img width="215" height="175" src="https://github.com/user-attachments/assets/0e6f936e-7bd7-4f91-ab1b-2bce520f628b" align="right">
+<ul font size="3" align="left">
   <li>Ibuprofen</li>
   <li>Asprin</li>
   <li>Decongestants</li>
@@ -31,8 +31,8 @@
 
 <!-- First Aid Section -->
   <font face="Georgia" size="4"><b><u>First Aid</u></b></font>
+  <img width="215" height="175" src="https://github.com/user-attachments/assets/12a9509a-1373-48ff-81c0-66063277f50e" align="right">
 <ul font size="3" align="left">
-    <img width="215" height="175" src="https://github.com/user-attachments/assets/12a9509a-1373-48ff-81c0-66063277f50e" align="right">
   <li>Bandages</li>
   <li>Gloves</li>
   <li>Antifungal Creams</li>
@@ -44,8 +44,8 @@
 
 <!-- Health Diagnostic Supplies Section -->
 <font face="Georgia" size="4"><b><u>Health Diagnostic Supplies</u></b></font>
+<img width="215" height="175" src="https://github.com/user-attachments/assets/e9e73172-cc84-4f66-b3f2-a53188b43d8a" align="right">
 <ul font size="3" align="left">
- <img width="215" height="175" src="https://github.com/user-attachments/assets/e9e73172-cc84-4f66-b3f2-a53188b43d8a" align="right">
   <li>Thermometer</li>
   <li>Blood Pressure Monitor</li>
   <li>Stethoscope</li>
