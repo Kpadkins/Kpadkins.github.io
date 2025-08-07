@@ -6,7 +6,6 @@
 <h1 align="center"><font face="Georgia">Shop Eloheh Health</font></h1>
 <i><h2 align="center">Save Money at Your Local Health Solutions Store</h2></i>
 <h2 title="The products listed may not cover every option available.">Eloheh Products</h2><br/>
-</body>
 
 <!-- Prescription Drug Section -->
 <b><u><font size="4" face="Georgia">Prescription Drugs</font></u></b><br/>
