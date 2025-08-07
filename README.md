@@ -15,7 +15,9 @@
   <font color="red" size="3">*Written doctor prescripitions are required*</font><br/><br/>
   <a href="https://github.com/user-attachments/assets/1d9ec1d8-668c-4eb8-b821-b35cbe682b0a" target="_blank">Download presciption form</a><br/>
   <u><font size="3"><a href="mailto:ElohehPharmacy@gmail.com">Email paperwork here</a></font></u> 
-  <br/><br/>
+  <br/> <br/>
+  <a href="https://www.hopkinsmedicine.org/health/wellness-and-prevention/help-for-managing-multiple-medications" target="_blank">See helpful Tips for medication management here</a>
+   <br/>
 
 <!-- Over-The-Counter Medicine Section -->
   <b><u><font size="4" face="Georgia">Over-the-Counter Medicine</font></u></b><br/>
