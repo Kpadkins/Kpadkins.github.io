@@ -62,7 +62,7 @@
   <br/>
 
  <!-- Numbered List Section -->
-<b><u><font size="4">How to Join our Rewards Program:</font></u></b>
+<h1>How to Join our Rewards Program:</h1><br/>
 <ol font size="3" align="left">
   <li>Ask the front counter clerk about joining the Rewards Program.</li>
   <li>Provide your name, phone number, and email address.</li>
