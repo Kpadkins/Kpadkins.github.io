@@ -12,7 +12,7 @@
 
 <!-- Prescription Drug Section -->
 <b><u><font size="4" face="Georgia">Prescription Drugs</font></u></b><br/>
-  <font color="gray" size="3">Medications tailored to your health needs, available with a doctor’s prescription for safe, effective treatment.</font><br/>
+  <font color="gray" size="3">Medications tailored to your health needs for safe, effective treatment.</font><br/>
   <font color="red" size="3">*Written doctor prescripitions are required*</font><br/>
   <a href="https://github.com/user-attachments/assets/1d9ec1d8-668c-4eb8-b821-b35cbe682b0a" target="_blank">Download presciption form</a><br/>
   <u><font size="3"><a href="mailto:ElohehPharmacy@gmail.com">Email paperwork here</a></font></u> 
