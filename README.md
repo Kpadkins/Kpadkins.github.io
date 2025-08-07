@@ -7,7 +7,7 @@
 </head>
 
 <body>
-<h2 title="The products listed may not cover every option available.">Eloheh Products</h2><br/>
+<h1 title="The products listed may not cover every option available.">Eloheh Products</h2><br/>
 
 <!-- Prescription Drug Section -->
 <b><u><font size="5" face="Georgia">Prescription Drugs</font></u></b><br/>
