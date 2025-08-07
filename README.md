@@ -16,7 +16,7 @@
   <a href="https://github.com/user-attachments/assets/1d9ec1d8-668c-4eb8-b821-b35cbe682b0a" target="_blank">Download presciption form</a><br/>
   <u><font size="3"><a href="mailto:ElohehPharmacy@gmail.com">Email paperwork here</a></font></u> 
   <br/> <br/>
-  <font color="gray" size="3">See helpful tips for medication management </font><a href="https://www.hopkinsmedicine.org/health/wellness-and-prevention/help-for-managing-multiple-medications" target="_blank">here.</a>
+  <font color="gray" size="3">See helpful tips for medication management<a href="https://www.hopkinsmedicine.org/health/wellness-and-prevention/help-for-managing-multiple-medications" target="_blank">here</a>.</font>
    <br/>
 
 <!-- Over-The-Counter Medicine Section -->
