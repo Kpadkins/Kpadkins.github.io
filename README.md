@@ -24,7 +24,7 @@
 <!-- Over-The-Counter Medicine Section -->
   <b><u><font size="4" face="Georgia">Over-the-Counter Medicine</font></u></b><br/>
   <font color="gray" size="3">Everyday remedies to relieve common symptoms and support your wellness.</font><br/>
-  <img width="275" height="183" src="https://github.com/user-attachments/assets/9692ba0d-ee29-42c6-8777-f0c46d47cdd9" align="right">
+  <img width="275" height="183" src="https://github.com/user-attachments/assets/e17a750c-66b7-459c-9081-d1e48e21da6d" align="right">
 <ul font size="3" align="left">
   <li>Ibuprofen</li>
   <li>Asprin</li>
