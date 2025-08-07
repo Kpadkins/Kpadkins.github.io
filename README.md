@@ -63,7 +63,7 @@
 
 <div style="background-color: #ccf5f0; padding: 20px; margin-top: 20px;">
  <!-- Numbered List Section -->
-<h3>How to Join our Rewards Program:</h3><br/>
+<u></u><h3>How to Join our Rewards Program:</h3></u><br/>
 <ol font size="3" align="left">
   <li>Ask the front counter clerk about joining the Rewards Program.</li>
   <li>Provide your name, phone number, and email address.</li>
