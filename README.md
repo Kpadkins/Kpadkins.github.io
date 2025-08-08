@@ -71,7 +71,6 @@
   <li>Ask the front counter clerk about joining the Rewards Program.</li>
   <li>Provide your name, phone number, and email address.</li>
   <li>Receive your rewards card and start earning points today!</li>
-</font>
 </ol>
   
 <br/>
