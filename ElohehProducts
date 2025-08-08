@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+
 <head>
 <div style="background-color: #87d2b9; padding: 20px; margin-top: 20px;">
 <font color="white">
@@ -78,3 +81,4 @@
 <br/><br/>
 <font color="gray">Page Last Modified: <script>document.write(document.lastModified)</script></font>
 
+</html>
