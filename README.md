@@ -14,8 +14,8 @@
 <!-- Prescription Drug Section -->
 <b><u><font size="4" face="Georgia">Prescription Drugs</font></u></b><br/>
   <font color="gray" size="3">Medications tailored to your health needs, available with a doctor’s prescription for safe, effective treatment.</font><br/>
-  <font color="red" size="3">*Written doctor prescripitions are required*</font><br/><br/>
-  <a href="https://github.com/user-attachments/assets/1d9ec1d8-668c-4eb8-b821-b35cbe682b0a" target="_blank">Download presciption form</a><br/>
+  <font color="red" size="3">*Written doctor prescriptions are required*</font><br/><br/>
+  <a href="https://github.com/user-attachments/assets/1d9ec1d8-668c-4eb8-b821-b35cbe682b0a" target="_blank">Download prescription form</a><br/>
   <u><font size="3"><a href="mailto:ElohehPharmacy@gmail.com">Email paperwork here</a></font></u> 
   <br/> <br/>
   <font color="gray" size="3">See helpful tips for medication management <a href="https://www.hopkinsmedicine.org/health/wellness-and-prevention/help-for-managing-multiple-medications" target="_blank">here</a>.</font>
@@ -27,10 +27,10 @@
   <img width="275" height="183" src="https://github.com/user-attachments/assets/e17a750c-66b7-459c-9081-d1e48e21da6d" align="right">
 <ul font size="3" align="left">
   <li>Ibuprofen</li>
-  <li>Asprin</li>
+  <li>Aspirin</li>
   <li>Decongestants</li>
   <li>Antacids</li>
-  <li>Laxitives</li>
+  <li>Laxatives</li>
   <li>Melatonin</li>
 </ul>
   <br/>
