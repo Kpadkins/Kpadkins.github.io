@@ -66,7 +66,7 @@
 <div style="background-color: #87d2b9; padding: 20px; margin-top: 20px;">
 <font color="white">
  <!-- Numbered List Section -->
-<h2>How to join our Rewards Program:</h2><br/>
+<font face="Georgia"><h2>How to join our Rewards Program:</h2></font><br/>
 <ol font size="3" align="left">
   <li>Ask the front counter clerk about joining the rewards program.</li>
   <li>Provide your name, phone number, and email address.</li>
